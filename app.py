@@ -32,4 +32,4 @@ def random_num():
     }
     #response = json.dumps(data)
     #mimetype="application/json"
-    return jsonify(data)
+    return data
